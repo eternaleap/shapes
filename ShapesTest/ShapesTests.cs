@@ -3,7 +3,7 @@ using Xunit;
 
 namespace ShapesTest
 {
-    public class UnitTest1
+    public class ShapesTests
     {
         [Theory]
         [InlineData(13, 530)]
